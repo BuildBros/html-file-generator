@@ -33,7 +33,7 @@ body{
     transition-duration: 1s;
 }
 
-.article-thumbnail-img:hover img{
+.article-thumbnail:hover .article-thumbnail-img img{
     transform: scale(1.1);
 }
 
