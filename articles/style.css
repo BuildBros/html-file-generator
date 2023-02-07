@@ -7,6 +7,10 @@ body{
     font-family: 'Sans-serif', Arial;
 }
 
+.cur-poi{
+    cursor: pointer;
+}
+
 .main-body {
     max-width: 750px;
     width: 100%;
@@ -103,6 +107,9 @@ body{
     padding: 5px;
     border-radius: 10px;
     cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .article-discription{
